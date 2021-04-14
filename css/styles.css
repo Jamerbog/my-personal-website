@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+hr {
+    border-width:5px;
+    border-style: dotted none none none;
+    border-color: #025955;
+    height: 1px ;
+    width: 100% ;
+} 
+
+h1, h2, h3, h4, h5, h6 {
+    color: #433520;
+    font-family: "Arial";
+    font-weight: 500;
+}

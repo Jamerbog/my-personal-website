@@ -16,7 +16,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
 }
 
-#poop {
+#personal-photo {
     border-radius: 15%;
-    
+}
+
+.project-thumbnail {
+    border-radius: 1.5%;
 }

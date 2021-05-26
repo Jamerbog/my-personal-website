@@ -33,4 +33,10 @@ a:link {
      text-decoration: none;
     }
 
+.boxed-project-description {
+    max-width: 600px;
+    font-family: Arial;
+}
+
+
 

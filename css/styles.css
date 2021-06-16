@@ -1,5 +1,6 @@
 body {
-    background-color: lightblue;
+    
+    border-radius: 3%;
 }
 
 hr {
@@ -10,8 +11,14 @@ hr {
     width: 100% ;
 } 
 
-h1, h2, h3, h4, h5, h6 {
-    color: #433520;
+h1 {
+    color: #8bb14d;
+    font-family: Arial;
+    font-weight: 500;
+}
+
+h2, h3, h4, h5 {
+    color: #fcac00;
     font-family: Arial;
     font-weight: 500;
 }
@@ -27,19 +34,31 @@ h1, h2, h3, h4, h5, h6 {
 p, td, label {
     font-family: Arial;
     outline:none;
+    color: rgb(173, 200, 230);
 }
 
 a:link {
      text-decoration: none;
+     color: rgb(173, 182, 230);
     }
 
 .boxed-project-description {
     max-width: 600px;
     font-family: Arial;
+    color: rgb(229, 230, 173);
 }
 
 .project-page {
     
+}
+
+.navigation {
+    color: yellow;
+}
+
+html {
+    background-image: linear-gradient(rgb(70, 70, 70), black);
+    min-height: 100%;
 }
 
 
